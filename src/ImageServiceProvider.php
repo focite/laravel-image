@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Laractl\Image;
+namespace Focite\Image;
 
 use Illuminate\Support\ServiceProvider;
 
